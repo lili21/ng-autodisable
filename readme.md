@@ -1,0 +1,1 @@
+[源头](https://github.com/kirstein/angular-autodisable)

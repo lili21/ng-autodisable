@@ -1,0 +1,14 @@
+{
+  "name": "napos-ng-autodisable",
+  "version": "1.0.0",
+  "description": "angular auto disable, prevent multiple form submit exp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ng-autodisable"
+  ],
+  "author": "li.li",
+  "license": "ISC"
+}
